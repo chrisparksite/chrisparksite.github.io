@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Paytone+One');
+
+body {
+    background-color: white;
+}
+
+h1 {
+	color: rgb(117,226,255);
+	text-align: center;
+}
+
+h1 {font-family: Paytone One, Arial, sans-serif;}
+p {font-family: garamond, serif;
+text-align: center;}
+
+#slogan {font-weight: bold;}
+
+.center {display: block;
+    margin-left: auto;
+    margin-right: auto;}
